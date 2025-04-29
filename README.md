@@ -1,11 +1,8 @@
 ### Hi there 👋
 
-My name is Peter Lande. I develop software for embedded devices, mostly specializing in logger software. I like to write in Rust and Python. I unfortunately also write in C++. 
+My name is Peter Lande. I develop software for embedded devices professionally, mostly working with C++, Python, and Rust. 
 
-I like to cook and climb! I don't do a lot of personal projects since I got a job, I might do something sometime in the near future.
-
-I like to make small games in Rust. I also like to make tooling.
-
+In my free time, I have built a few small games and other utilities for hobbies.
 <!--
 **Peter-Lande/Peter-Lande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
